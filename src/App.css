@@ -20,3 +20,16 @@
 .App-link {
   color: #09d3ac;
 }
+.navbar{
+  height: 100px;
+  background-color:rgb(51, 51, 51);
+  color: whitesmoke;
+  margin-bottom: 15px;
+  text-align: center;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  margin:0;
+}
